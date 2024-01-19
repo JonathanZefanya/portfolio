@@ -36,8 +36,4 @@ Website for univeristy who need system SKKM and this project for my final projec
 - **Email:** jonathan.zefanya16@gmail.com
 - **Portfolio Website:** https://jojo.tirtagt.xyz
 
-Feel free to reach out if you have any inquiries, collaboration opportunities, or just want to connect!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Feel free to reach out if you have any inquiries, collaboration opportunities, or just want to connect
