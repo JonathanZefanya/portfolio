@@ -16,7 +16,7 @@
   <!-- Sosmed Sharing -->
   <meta property="og:title" content="Portfolio Jonathan">
   <meta property="og:description" content="Jonathan Zefanya yang merupakan seorang pemuda dari ITI yang memiliki bakat membuat program.">
-  <meta property="og:image" content="https://jojo.tirtagt.xyz/assets/img/profile.jpg">
+  <meta property="og:image" content="https://jojo.tirtagt.xyz/assets/img/profile(2).jpg">
   <meta property="og:url" content="https://jojo.tirtagt.xyz">
   <meta property="og:type" content="website">
 
@@ -58,6 +58,9 @@
             <a class="nav-link js-scroll" href="#work">Project</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll" href="#komentar">Comment</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll" href="#contact">Contact</a>
           </li>
           
@@ -72,7 +75,7 @@
       <div class="table-cell">
         <div class="container">
           <h1 class="intro-title mb-4">Jonathan Zefanya</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">Engineering Informatics,Web Developer,Web Designer,Frontend Developer,Mahasiswa ITI</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">Engineering Informatics,Web Developer,Web Designer,Frontend Developer, Mobile Developer, Game Developer, Mahasiswa Institut Teknologi Indonesia</span><strong class="text-slider"></strong></p>
         </div>
       </div>
     </div>
@@ -90,7 +93,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/profile.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="assets/img/profile(2).jpg" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
@@ -119,20 +122,30 @@
                       <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
 
-                    <span>CSS</span> <span class="pull-right">75%</span>
+                    <span>CSS (Bukan bahasa pemrograman)</span> <span class="pull-right">75%</span>
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
 
-                    <span>GO-LANGUANGE</span> <span class="pull-right">68%</span>
+                    <span>DART</span> <span class="pull-right">70%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 68%" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
 
-                    <span>JAVASCRIPT</span> <span class="pull-right">66%</span>
+                    <span>JAVASCRIPT</span> <span class="pull-right">70%</span>
                     <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>                  
+                      <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+
+                    <span>C#</span> <span class="pull-right">60%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+
+                    <span>GO-LANGUANGE</span> <span class="pull-right">60%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
 
                   </div>
                 </div>
@@ -144,7 +157,7 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      saya berumur 19 Tahun dan sekarang sedang menjalani perkuliahan semester 3 di Institut Teknologi Indonesia di Jurusan Teknik Informatika.
+                      saya berumur 20 Tahun dan sekarang sedang menjalani perkuliahan semester 5 di Institut Teknologi Indonesia di Jurusan Teknik Informatika.
                       saya memiliki hobi bermain game dan juga saya memiliki hobi untuk mengembangkan bakat saya dalam bidang IT.
                     </p>
                     <p class="lead">
@@ -202,7 +215,7 @@
               <div class="service-content">
                 <h2 class="s-title">Web Development</h2>
                 <p class="s-description text-center">
-                  saya telah menyelesaikan matakuliah pemrograman web dengan menggunakan bahasa pemrograman PHP,HTML,CSS,JAVASCRIPT.
+                  saya membuat website dengan menggunakan beberapa framework seperti CI ataupun Laravel.
                 </p>
               </div>
             </div>
@@ -210,15 +223,54 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="ion-camera"></i></span>
+                <span class="ico-circle"><i class="ion-ios-game-controller-b"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Photography</h2>
+                <h2 class="s-title">Game Development</h2>
                 <p class="s-description text-center">
-                  Saya memiliki hobi untuk mengambil gambar dan saya juga memiliki hobi untuk mengedit gambar.
+                  saya mengambil matakuliah Pemrograman Game dengan menggunakan software Unity.
                 </p>
               </div>
             </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="ion-iphone"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Mobile</h2>
+                <p class="s-description text-center">
+                  Saya membuat aplikasi mobile dengan menggunakan flutter dengan android studio & visal stuido code.
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-camera"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Photography</h2>
+              <p class="s-description text-center">
+                Saya memiliki hobi untuk mengambil gambar dan saya juga memiliki hobi untuk mengedit gambar.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-university"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Teacher</h2>
+              <p class="s-description text-center">
+                Saya telah mengajar di beberapa institusi, dan saya pernah membuka les untuk anak SD kelas 6.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -233,7 +285,7 @@
                 <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
               </div>
               <div class="counter-num">
-                <p class="counter">16</p>
+                <p class="counter">18</p>
                 <span class="counter-text">PROJECT TELAH SELESAI</span>
               </div>
             </div>
@@ -244,7 +296,7 @@
                 <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
               </div>
               <div class="counter-num">
-                <p class="counter">1</p>
+                <p class="counter">2</p>
                 <span class="counter-text">TAHUN DARI PENGALAMAN</span>
               </div>
             </div>
@@ -255,7 +307,7 @@
                 <span class="ico-circle"><i class="ion-ios-people"></i></span>
               </div>
               <div class="counter-num">
-                <p class="counter">5</p>
+                <p class="counter">10</p>
                 <span class="counter-text">TOTAL KLIEN</span>
               </div>
             </div>
@@ -308,7 +360,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="/templates/frontend/zet-topup.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="/templates/project/zet-topup.html"> <span class="ion-ios-plus-outline"></span></a>
                     </div>
                   </div>
                 </div>
@@ -333,7 +385,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="/templates/frontend/SKKM.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="/templates/project/SKKM.html"> <span class="ion-ios-plus-outline"></span></a>
                     </div>
                   </div>
                 </div>
@@ -358,7 +410,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="/templates/frontend/owl.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="/templates/project/owl.html"> <span class="ion-ios-plus-outline"></span></a>
                     </div>
                   </div>
                 </div>
@@ -383,7 +435,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="/templates/frontend/nahidaweb.html"> <span class="ion-ios-plus-outline"></span></a>
+                      <a href="/templates/project/nahidaweb.html"> <span class="ion-ios-plus-outline"></span></a>
                     </div>
                   </div>
                 </div>
@@ -391,11 +443,89 @@
             </div>
           </div>
 
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/topup.png" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/topup.png" height="218.74px" alt="" class="">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Website Top Up</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Development</span> / <span class="w-date">10 Juli 2024</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="/templates/project/topup.html"> <span class="ion-ios-plus-outline"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/myanimethumb.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/myanimethumb.jpg" height="218.74px" alt="" class="">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Aplikasi MyAnime</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Mobile</span> / <span class="w-date">16 Mei 2024</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="/templates/project/myanime.html"> <span class="ion-ios-plus-outline"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/tanganthumb.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/tanganthumb.jpg" height="218.74px" alt="" class="">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Aplikasi Tangan (Catatan Keuangan)</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Mobile</span> / <span class="w-date">11 Juli 2024</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="/templates/project/tangan.html"> <span class="ion-ios-plus-outline"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      <!-- Tambahkan disini -->
+
+      <!-- Tambahkan Disini -->
         </div>
       </div>
     </section>
 
-    <div class="testimonials paralax-mf bg-image" style="background-image: url(assets/img/bg.jpg)">
+    <div id="komentar" class="testimonials paralax-mf bg-image" style="background-image: url(assets/img/bg.jpg)">
       <div class="overlay-mf"></div>
       <div class="container">
         <div class="row">
@@ -451,6 +581,8 @@
                   <span class="comit"><i class="fa fa-quote-right"></i></span>
                 </div>
               </div>
+
+
             </div>
           </div>
         </div>
@@ -518,21 +650,22 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Jika kamu ingin menghubungi saya silahkan hubungi saya melalui informasi kontak yang tertera di bawah ini.
+                        Jika kamu ingin menghubungi saya atau memberikan komentar tentang saya silahkan hubungi saya melalui informasi kontak yang tertera di bawah ini.
                         atau kamu bisa bertanya langsung kepada saya melalui form yang telah disediakan.
                         Terima kasih, Jangan Lupa Senyum Hari Ini.
                       </p>
                       <ul class="list-ico">
-                        <li><span class="ion-ios-location"></span> Banten, Institut Teknologi Indonesia</li>
+                        <li><span class="ion-ios-location"></span><a href="https://maps.app.goo.gl/KjrVYywXSgGigPnN8">Banten, Institut Teknologi Indonesia</a></li>
                         <li><span class="ion-ios-telephone"></span><a href="https://wa.me/6283807914090"> 0838-0791-4090</a></li>
-                        <li><span class="ion-email"></span> jonathan.zefanya16@gmail.com</li>
+                        <li><span class="ion-email"></span><a href="mailto:jonathan.zefanya16@gmail.com"> jonathan.zefanya16@gmail.com</a></li>
                       </ul>
                     </div>
                     <div class="socials">
                       <ul>
                         <li><a href="https://www.facebook.com/pmeme.handal.94?mibextid=ZbWKwL"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                        <li><a href="https://instagram.com/jonathan_zefanya?igshid=OGQ5ZDc2ODk2ZA=="><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                        <li><a href="https://instagram.com/xeadesta"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                         <li><a href="https://twitter.com/nakano10909"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/jonathan-natannael-zefanya-212b9b25a/"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
